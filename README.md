@@ -47,7 +47,7 @@ agentic_rag/
 ## 🛠 Installation
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/vatsallolariya/<repo>.git
+git clone https://github.com/vatsallolariya/Agentic-RAG.git
 cd agentic_rag
 ```
 
@@ -124,3 +124,4 @@ NO
 Flow:
 Skip retrieval → Generate direct answer
 ```
+
